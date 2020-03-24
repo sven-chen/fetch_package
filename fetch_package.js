@@ -1,3 +1,4 @@
+//转自此blog   https://www.iiter.cn/blogs/22
 // 1.封装 （http.js）
 class Ajax {
   get(url) {
