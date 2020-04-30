@@ -25,7 +25,7 @@ http.put('http://jsonplaceholder.typicode.com/users/2', data)
   .then(data => console.log(data))
   .catch(err => console.log(err))
 
-
+console.log(110120);
 //delete user 删除下标为2里的数据  
 
 http.delete('http://jsonplaceholder.typicode.com/users/2', data)
